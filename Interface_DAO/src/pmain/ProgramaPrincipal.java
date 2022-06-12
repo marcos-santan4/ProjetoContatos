@@ -9,7 +9,7 @@ public class ProgramaPrincipal {
 			Frame contatoFrame = new Frame();
 			
 			contatoFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-			contatoFrame.setSize(500, 250);
+			contatoFrame.setSize(500, 255);
 			contatoFrame.setVisible(true);
 	}
 }
